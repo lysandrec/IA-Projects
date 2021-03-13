@@ -11,8 +11,6 @@ Après avoir lu celle-ci, j'ai implémenté l'algorithme en utilisant les techno
 - Python 3.7
 - PyTorch 1.7
 
-Exemple:
-
 Résultats obtenus par mon implémentation de EfficientNet sur le dataset ImageNet:
 |Versions du programme|Pourcentages de classifications réussies|
 |----------------|------|
